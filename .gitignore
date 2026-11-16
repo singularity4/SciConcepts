@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+results/
+networks/
+sci_concepts/
+sci_concepts_extend/
+sci_concepts*.zip
+earlier_extracted/
+arxiv-metadata-oai-snapshot.json
