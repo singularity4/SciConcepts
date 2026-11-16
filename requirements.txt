@@ -1,0 +1,11 @@
+# SciConcepts. Tested with Python 3.13 and the versions given in the comments.
+numpy                 # 2.5.3
+scipy                 # 1.18.1
+pandas                # 3.0.5
+pyarrow               # 26.0.1; parquet files
+torch                 # 2.15.0; GPU topic model
+scikit-learn          # 1.9.1; TF-IDF for the topic model
+matplotlib            # 3.11.2; figures
+networkx              # 3.7; layout of the network figure
+spacy                 # 3.8.18; candidate concepts, with the model en_core_web_sm 3.8.0
+pke @ git+https://github.com/boudinfl/pke.git@69871ffdb720b83df23684fea53ec8776fd87e63   # 2.0.0; MultipartiteRank
